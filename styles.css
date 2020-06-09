@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: darkred;
+}
+li{
+    list-style: none;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+#wrapper{
+    width: 75%;
+
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+footer{
+    display: flex;
+}
+
+.footerblock{
+    width: 20%;
+}
+.shopitem{
+    width: 20rem;
+}
+.price{
+    
+}
+
+.productname{
+    
+}
+.frame{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.frame img {
+    max-width:100%;
+    max-height:100%;
+}
+.frame span{
+    
+}
